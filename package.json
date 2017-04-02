@@ -1,0 +1,13 @@
+{
+  "name": "md-data-table-api",
+  "version": "0.0.1",
+  "description": "API for the Demo of Material Design data table.",
+  "license": "MIT",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "mongoose": "^4.9.2",
+    "morgan": "^1.8.1",
+	"body-parser": "^1.17.1"
+  }
+}
